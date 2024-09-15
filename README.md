@@ -1,6 +1,8 @@
 # 5CI---2024-09-16---Consegna-compito-vacanze
 Repository dedicato al caricamento del lavoro svolto durante lo stage come richiesto dal professore Breviario Giovanni.
 
+# PER MOTIVI DI SICUREZZA IL FILE PER ESSERE SCARICATO NECESSITA DELLA MIA AUTORIZZAZIONE CHE VIENE MANDATA VIA MAIL SUCCESSIVAMENTE AL CLICK DEL LINK DI GOOGLE DRIVE.
+
 Il repository contiene un link di google drive nel quale è caricato un file zippato in formato .rar della dimensione di 17Gb con all'interno tutto il lavoro svolto durante lo stage alla Hennecke-Oms S.P.A di Verano Brianza (MB) nel periodo che va dal 25/05/2024 al 21/06/2024.
 
 
